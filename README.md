@@ -1,2 +1,2 @@
 # ERA-SESSION12
-ERA-SESSION12 - PyTorch Lightning &amp; Gradio
+ERA-SESSION12-PyTorch Lightning &amp; Gradio
